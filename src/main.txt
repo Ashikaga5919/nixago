@@ -1,1 +1,2 @@
-Generate configuration files using Nix [maintainer=@jmgilman] 
+Generate configuration files using Nix [maintainer=@jmgilman]
+# guard against empty input
